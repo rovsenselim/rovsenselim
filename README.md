@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rovshan salimzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rovshan salimzade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rovshan-salimzade-a52920368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rovshan salimzade" height="30" width="40" /></a>
 <a href="https://fb.com/rovsen selimzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rovsen selimzade" height="30" width="40" /></a>
 <a href="https://instagram.com/_rovsen._.selim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rovsen._.selim_" height="30" width="40" /></a>
 </p>
