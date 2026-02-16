@@ -1,10 +1,8 @@
+![MasterHead](https://images.ctfassets.net/qyg0c6wmz8bn/1sDhu7y8r1Ly6PKAeLvn2C/c99a72274ccd9efe084355120ba5ca6f/programming-coding---study-online-banner.jpeg?w=3840&q=75&fm=webp)
+
+
 <h1 align="center">Hi 👋, I'm Rovshan Salimzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-
-
-
-
-
 - 🔭 I’m currently working on [Online job recruitment system](https://github.com/rovsenselim/Final-Lahiy-)
 
 - 🌱 I’m currently learning **I’m currently learning advanced web development techniques and fundamental cybersecurity concepts.**
