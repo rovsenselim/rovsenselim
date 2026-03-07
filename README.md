@@ -3,11 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Rovshan Salimzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-- 🔭 I’m currently working on [Online job recruitment system](https://github.com/rovsenselim/Final-Lahiy-)
+- 🔭 I’m currently working on [Online job recruitment system](https://github.com/rovsenselim/online-job-recruitment-system)
 
 - 🌱 I’m currently learning **I’m currently learning advanced web development techniques and fundamental cybersecurity concepts.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rovsenselim/AF108](https://github.com/rovsenselim/AF108)
+- 👨‍💻 All of my projects are available at [https://github.com/rovsenselim/programming-exercises](https://github.com/rovsenselim/programming-exercises)
 
 - 💬 Ask me about **Ask me about React, JavaScript, Redux Toolkit, and building interactive web applications.**
 
