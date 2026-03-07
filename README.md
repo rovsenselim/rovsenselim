@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **selimzaderovsen5@gmail.com**
 
-- 📄 Know about my experiences [Participated in practical courses at Code Academy and collaborated on team projects.](Participated in practical courses at Code Academy and collaborated on team projects.)
+- 📄 Know about my experiences(Participated in practical courses at Code Academy and collaborated on team projects.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
