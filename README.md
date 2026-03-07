@@ -3,17 +3,19 @@
 
 <h1 align="center">Hi 👋, I'm Rovshan Salimzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-- 🔭 I’m currently working on [Online job recruitment system](https://github.com/rovsenselim/online-job-recruitment-system)
 
-- 🌱 I’m currently learning **I’m currently learning advanced web development techniques and fundamental cybersecurity concepts.**
+- 🔭 I’m currently working on [Online Job Recruitment System](https://github.com/rovsenselim/online-job-recruitment-system)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rovsenselim/programming-exercises](https://github.com/rovsenselim/programming-exercises)
+- 🌱 I’m currently learning **advanced web development techniques and fundamental cybersecurity concepts**
 
-- 💬 Ask me about **Ask me about React, JavaScript, Redux Toolkit, and building interactive web applications.**
+- 👨‍💻 All of my projects are available at  
+https://github.com/rovsenselim
+
+- 💬 Ask me about **React, JavaScript, Redux Toolkit, and building interactive web applications**
 
 - 📫 How to reach me **selimzaderovsen5@gmail.com**
 
-- 📄 Know about my experiences(Participated in practical courses at Code Academy and collaborated on team projects.)
+- 📄 Know about my experiences: Participated in practical courses at Code Academy and collaborated on team-based projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
