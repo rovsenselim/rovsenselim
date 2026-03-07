@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **advanced web development techniques and fundamental cybersecurity concepts**
 
-- 👨‍💻 All of my projects are available at  
-https://github.com/rovsenselim
+👨‍💻 You can find my programming exercises and learning tasks here:
+https://github.com/rovsenselim/programming-exercises
 
 - 💬 Ask me about **React, JavaScript, Redux Toolkit, and building interactive web applications**
 
